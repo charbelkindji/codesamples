@@ -70,6 +70,5 @@ aura pas de 3ème équipe à afficher ou à récompenser, etc.
 
 **Exemple de sortie**
 
-```
 ![Binary Clock Program Output](output.PNG) 
-```
+
